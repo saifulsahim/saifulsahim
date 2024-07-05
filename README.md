@@ -4,7 +4,9 @@
 
 An enthusiastic SQA Engineer who wants to learn any technological skills & wants to contribute in the technology world. 
 
-Skills: PHP / C / 
+Skills:
+✔ Manual testing
+✔ API testing
 
 - 🔭 I’m currently working on Bit Mascot 
 
