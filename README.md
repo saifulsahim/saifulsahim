@@ -2,8 +2,7 @@
 ### Hi there 👋, HI ! I am Sk. Md. Saiful Alam
 #### SQA Engineer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+An enthusiastic SQA Engineer who wants to learn any technological skills & wants to contribute in the technology world. 
 Skills: PHP / C / 
 
 - 🔭 I’m currently working on Bit Mascot 
