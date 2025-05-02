@@ -7,6 +7,7 @@ An enthusiastic SQA Engineer who wants to learn any technological skills & wants
 Skills:
 ✔ Manual testing
 ✔ API testing
+✔ Automation testing
 
 - 🔭 I’m currently working on Portonics Limited 
 
